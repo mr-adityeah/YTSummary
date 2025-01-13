@@ -31,9 +31,3 @@ To run this project, ensure you have the following:
 ### Step 3: Install n8n
 - Follow the [n8n installation guide](https://n8n.io/docs/) to set up your n8n instance.
 
-### Step 4: Clone this Repository
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/yourusername/youtube-video-summarizer.git
-cd youtube-video-summarizer
